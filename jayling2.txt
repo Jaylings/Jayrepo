@@ -1,1 +1,7 @@
+List of sports
+football
+tennis
+basketball
+baseball
+badmington
 

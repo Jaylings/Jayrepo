@@ -1,0 +1,7 @@
+list of fruits
+mango
+fruit
+cashew
+pearl
+carrot
+grape
