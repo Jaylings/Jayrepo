@@ -1,0 +1,4 @@
+for (( x=500; x -le 500; x=x+50 ))
+do
+echo $x
+done 
